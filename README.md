@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Exitroz
 - 👀 I’m interested in New Technologies
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on any real tiem project
+- 💞️ I’m looking to collaborate on any real timm project
 - 📫 How to reach me email is ezeobih@gmail.com
 
 <!---
